@@ -1,0 +1,12 @@
+[ 2025-03-17 14:47:42,584 ] - data_ingestion.py:27 - root - INFO - Entered the data ingestion method or component
+[ 2025-03-17 14:47:42,587 ] - data_ingestion.py:31 - root - INFO - Read the dataset as Dataframe
+[ 2025-03-17 14:47:42,591 ] - data_ingestion.py:36 - root - INFO - Train Test Split Initiated
+[ 2025-03-17 14:47:42,597 ] - data_ingestion.py:42 - root - INFO - Ingestion of the data is Completed
+[ 2025-03-17 14:47:42,600 ] - data_transformation.py:76 - root - INFO - Read Train and Test Data Completed
+[ 2025-03-17 14:47:42,601 ] - data_transformation.py:77 - root - INFO - Obtaining Preprocessing Object
+[ 2025-03-17 14:47:42,601 ] - data_transformation.py:54 - root - INFO - Numerical Columns: ['writing_score', 'reading_score']
+[ 2025-03-17 14:47:42,601 ] - data_transformation.py:55 - root - INFO - Categorical Columns: ['gender', 'race_ethnicity', 'parental_level_of_education', 'lunch', 'test_preparation_course']
+[ 2025-03-17 14:47:42,602 ] - data_transformation.py:90 - root - INFO - Applying preprocessing object on training dataframe and testing dataframe
+[ 2025-03-17 14:47:42,621 ] - data_transformation.py:104 - root - INFO - Saved Preprocessing Object.
+[ 2025-03-17 14:47:42,625 ] - model_trainer.py:31 - root - INFO - Split Training and test input data
+[ 2025-03-17 14:49:42,707 ] - model_trainer.py:101 - root - INFO - Best found model on both training and testing dataset

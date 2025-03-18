@@ -1,0 +1,5 @@
+[ 2025-03-17 15:57:35,877 ] - _internal.py:97 - werkzeug - WARNING -  * Debugger is active!
+[ 2025-03-17 15:57:35,877 ] - _internal.py:97 - werkzeug - INFO -  * Debugger PIN: 101-329-331
+[ 2025-03-17 15:57:41,757 ] - _internal.py:97 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 15:57:41] "POST /predictdata HTTP/1.1" 200 -
+[ 2025-03-17 15:58:28,281 ] - _internal.py:97 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 15:58:28] "POST /predictdata HTTP/1.1" 200 -
+[ 2025-03-17 15:59:07,780 ] - _internal.py:97 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 15:59:07] "POST /predictdata HTTP/1.1" 200 -

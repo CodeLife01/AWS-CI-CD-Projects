@@ -1,0 +1,14 @@
+[ 2025-03-17 15:43:39,423 ] - _internal.py:97 - werkzeug - WARNING -  * Debugger is active!
+[ 2025-03-17 15:43:39,423 ] - _internal.py:97 - werkzeug - INFO -  * Debugger PIN: 101-329-331
+[ 2025-03-17 15:43:44,118 ] - _internal.py:97 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 15:43:44] "GET / HTTP/1.1" 200 -
+[ 2025-03-17 15:43:51,313 ] - _internal.py:97 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 15:43:51] "GET /predictdata HTTP/1.1" 200 -
+[ 2025-03-17 15:44:08,936 ] - _internal.py:97 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 15:44:08] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 -
+[ 2025-03-17 15:44:09,015 ] - _internal.py:97 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 15:44:09] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2025-03-17 15:44:09,019 ] - _internal.py:97 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 15:44:09] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2025-03-17 15:44:09,053 ] - _internal.py:97 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 15:44:09] "GET /predictdata?__debugger__=yes&cmd=resource&f=console.png&s=n0w25X5D2KF0SRWBKNFK HTTP/1.1" 200 -
+[ 2025-03-17 15:44:09,106 ] - _internal.py:97 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 15:44:09] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2025-03-17 15:48:08,559 ] - _internal.py:97 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 15:48:08] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 -
+[ 2025-03-17 15:48:08,633 ] - _internal.py:97 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 15:48:08] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2025-03-17 15:48:08,637 ] - _internal.py:97 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 15:48:08] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2025-03-17 15:48:08,671 ] - _internal.py:97 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 15:48:08] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png&s=n0w25X5D2KF0SRWBKNFK HTTP/1.1[0m" 304 -
+[ 2025-03-17 15:48:08,696 ] - _internal.py:97 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2025 15:48:08] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
